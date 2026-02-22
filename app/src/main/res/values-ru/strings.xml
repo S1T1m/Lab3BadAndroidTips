@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Badroid Tips</string>
-    <string name="tip_image_cd">Tip image</string>
+    <string name="app_name">Вредные советы по использованию Android</string>
+    <string name="tip_image_cd">Картинка совета</string>
 
-    <string name="day_format">Day %1$d</string>
-    <string name="day_title_format">Day %1$d — %2$s</string>
+    <string name="day_format">День %1$d</string>
+    <string name="day_title_format">День %1$d — %2$s</string>
 
     <string name="tip_01_title">Экран без замка</string>
     <string name="tip_01_short">Не ставь ни PIN, ни отпечаток —\nвходи свободно, без загадок.</string>
